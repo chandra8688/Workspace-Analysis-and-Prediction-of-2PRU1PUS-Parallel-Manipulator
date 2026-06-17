@@ -130,6 +130,20 @@ Training Configuration:
 
 This project demonstrates the integration of robotics, kinematic analysis, and machine learning for efficient workspace prediction in parallel manipulators.
 
+## Repository Contents
+
+This repository currently contains the final project report and supporting documentation for the Undergraduate Project (UGP).
+
+The implementation code used for workspace generation, dataset creation, neural-network training, and visualization is being organized and may be added in a future update.
+
+Current repository contents include:
+
+* Project report and documentation
+* Workspace analysis methodology
+* Neural network architecture and training details
+* Experimental results and findings
+* Project summary and technical discussion
+
 Potential applications include:
 
 * Workspace-aware motion planning
