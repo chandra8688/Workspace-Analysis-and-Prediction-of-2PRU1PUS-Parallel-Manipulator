@@ -2,8 +2,8 @@
 
 ## Undergraduate Project (UGP)
 
-**Department of Mechanical Engineering**
-**Indian Institute of Technology Kanpur**
+Department of Mechanical Engineering  
+Indian Institute of Technology Kanpur
 
 **Supervisor:** Prof. Nachiketa Tiwari
 
